@@ -8,6 +8,9 @@ E-post: partikontoret@socialdemokratiet.dk
 Hjemmeside: www.socialdemokratiet.dk
 
 
+## TL;DR
+
+Nogenlunde normale findings, småting. Nok som forventet for en etableret infrastruktur for større dansk parti.
 
 ## Hjemmeside indstillinger
 
@@ -50,6 +53,19 @@ Full Report Url: https://observatory.mozilla.org/analyze.html?host=www.socialdem
 
 "plads til forbedring". Der er god grund til at forbedre dette, for at sikre borgere imod phishing angreb, eller lignende. FIX ME
 
+## Andre issues - Burp
+Issue:   TLS cookie without secure flag set
+Severity:   Medium
+Confidence:   Firm
+Host:   https://www.socialdemokratiet.dk
+Path:   /skolemateriale/
+
+Issue detail
+The following cookies were issued by the application and do not have the secure flag set:
+* ASP.NET_SessionId
+* __RequestVerificationToken
+
+
 ## Mail indstillinger
 
 Test 27/10 2021
@@ -69,3 +85,8 @@ Primært via whois:
 
 * Mail hostes i Danmark hos Zitcom
 * Hjemmesiden hostes i Tyskland
+
+Hjemmesiden leder en videre til et site for "s-aktiv"
+https://socialdemokratiet.membersite.dk/
+
+dette har en ældre jQuery. Der er også andre sites linket fra dette, som ikke er undersøgt.
