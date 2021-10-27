@@ -1,7 +1,7 @@
 
 
 
-# Å - Alternativet
+# D - Nye Borgerlige
 
 Informationer:
 E-post: sekretariat@nyeborgerlige.dk
