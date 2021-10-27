@@ -4,8 +4,8 @@
 # C - Konservative
 
 Informationer:
-E-post:
-Hjemmeside:
+E-post: info@konservative.dk
+Hjemmeside: www.konservative.dk
 
 
 ## TL;DR
