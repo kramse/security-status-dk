@@ -72,7 +72,7 @@ The library jquery version 1.12.4 has known security issues. For more informatio
 ## Mail indstillinger
 
 Test 27/10 2021
-https://internet.nl/mail// opnår 77%
+https://internet.nl/mail/alternativet.dk/ opnår 77%
 
 Mailserver (Google) har IPv6
 
