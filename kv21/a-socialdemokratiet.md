@@ -24,7 +24,7 @@ Der mangler:
 * IPv6 for hjemmesiden - typisk for danske web sites, desværre
 * DNSSEC mangler - typisk for danske domæner, desværre
 
-HTTPS indstillinger, mangler:
+HTTPS indstillinger:
 
 * HSTS - burde være på et så populært partis site, FIX ME
 
@@ -65,6 +65,7 @@ The following cookies were issued by the application and do not have the secure 
 * ASP.NET_SessionId
 * __RequestVerificationToken
 
+Samme findes hos andre partier, med andre cookies. Ret normalt.
 
 ## Mail indstillinger
 
