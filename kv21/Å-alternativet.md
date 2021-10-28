@@ -25,8 +25,6 @@ Der mangler:
 
 HTTPS indstillinger:
 
-* HSTS - burde være på et så populært partis site, og findes godt!
-* TLS version 1.0 og 1.1 bør fjernes FIX ME
 * Key exchange, mindre problem, men FIX ME
 
 
