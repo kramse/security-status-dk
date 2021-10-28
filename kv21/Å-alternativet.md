@@ -10,7 +10,7 @@ Hjemmeside: www.alternativet.dk
 
 ## TL;DR
 
-Nogenlunde normale findings, småting. Nok som forventet for en etableret infrastruktur for større dansk parti.
+Nogenlunde normale findings, småting. Nok som forventet for en etableret infrastruktur et mindre dansk parti.
 
 ## Hjemmeside indstillinger
 
