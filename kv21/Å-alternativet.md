@@ -14,14 +14,13 @@ Nogenlunde normale findings, småting. Nok som forventet for en etableret infras
 
 ## Hjemmeside indstillinger
 
-Test 27/10 2021
+Test 28/10 2021
 
 https://internet.nl/site/www.alternativet.dk/
 
-Sitet opnår 47%
+Sitet opnår 70%
 
 Der mangler:
-* IPv6 for hjemmesiden - typisk for danske web sites, desværre
 * DNSSEC mangler - typisk for danske domæner, desværre
 
 HTTPS indstillinger:
