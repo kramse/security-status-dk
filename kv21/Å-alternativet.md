@@ -14,14 +14,11 @@ Nogenlunde normale findings, småting. Nok som forventet for en etableret infras
 
 ## Hjemmeside indstillinger
 
-Test 28/10 2021
+Test 29/10 2021
 
 https://internet.nl/site/www.alternativet.dk/
 
-Sitet opnår 70%
-
-Der mangler:
-* DNSSEC mangler - typisk for danske domæner, desværre
+Sitet opnår 97%
 
 HTTPS indstillinger:
 
