@@ -10,24 +10,21 @@ Hjemmeside: www.alternativet.dk
 
 ## TL;DR
 
-Nogenlunde normale findings, småting. Nok som forventet for en etableret infrastruktur for større dansk parti.
+Nogenlunde normale findings, småting. Nok som forventet for en etableret infrastruktur et mindre dansk parti.
 
 ## Hjemmeside indstillinger
 
-Test 27/10 2021
+Test 28/10 2021
 
 https://internet.nl/site/www.alternativet.dk/
 
-Sitet opnår 47%
+Sitet opnår 70%
 
 Der mangler:
-* IPv6 for hjemmesiden - typisk for danske web sites, desværre
 * DNSSEC mangler - typisk for danske domæner, desværre
 
 HTTPS indstillinger:
 
-* HSTS - burde være på et så populært partis site, og findes godt!
-* TLS version 1.0 og 1.1 bør fjernes FIX ME
 * Key exchange, mindre problem, men FIX ME
 
 
